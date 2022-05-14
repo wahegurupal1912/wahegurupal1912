@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a social media application and a personal portfolio.
+- 🌱 I’m currently developing my skills with React and Firebase.
+- 📫 You can contact me at mankoo1912@gmail.com
+- ⚡ Fun fact: I love cars that go Wrooooom.
 
 <!--
 **wahegurupal1912/wahegurupal1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
